@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vuln page</title>
+    <title>pX Company</title>
     <link rel="icon" type="image/x-icon" href="images/logopng.png">
     <link rel="stylesheet" href="{{ asset('css/Frame-Work.css') }}">
     <link rel="stylesheet"
